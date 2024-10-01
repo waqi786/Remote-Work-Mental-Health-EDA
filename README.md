@@ -11,7 +11,7 @@ This project investigates the relationship between remote work and mental health
 3. Correlation Analysis: Identifying correlations between remote work and mental health indicators like anxiety, depression, and burnout.
 4. Trend Identification: Detecting patterns in mental health based on demographic factors such as age, gender, and profession in relation to remote work settings.
 
-**Installation and Usage:**
+**Installation and Usage**
 
 1. Clone the repository:
 
