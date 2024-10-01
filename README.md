@@ -38,7 +38,7 @@ This project investigates the relationship between remote work and mental health
 
 
 
-**Dependencies**
+**Dependencies:**
 
 1. Python 3.x
 2. Jupyter Notebook
