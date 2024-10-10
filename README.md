@@ -1,4 +1,4 @@
-# Remote-Work-Mental-Health-EDA
+# Remote Work Mental Health EDA
 
 **Overview:**
 
